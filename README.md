@@ -17,7 +17,7 @@ CSS
 JavaScript
 
 # Contact Me
-Thank you for visiting! I look forward to connecting with you. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me at nekomangini.dev@gmail.com.
+Thank you for visiting! I look forward to connecting with you. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out to me.
 
 
 https://nekomangini.github.io/LuiLux-website/index.html
