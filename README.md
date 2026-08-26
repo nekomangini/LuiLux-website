@@ -8,3 +8,5 @@ Welcome to my portfolio website created for LuiLux! This website showcases my sk
 - JavaScript
 
 [LuiLux-website](https://luilux.netlify.app/)
+
+- [ ] test forgejo sync connection
